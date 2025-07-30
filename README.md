@@ -23,7 +23,7 @@ Soy un desarrollador web apasionado por crear soluciones innovadoras y eficiente
 ### Contacto
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/luis-vasquez-yepez-80a857248/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-vasquez-yepez-80a857248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:wueyluis@gmail.com">
